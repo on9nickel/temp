@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JavaKeyboard</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+
+    <string-array name="suggestions">
+        <item>apple</item>
+        <item>Android</item>
+        <item>before</item>
+        <item>case</item>
+        <item>data</item>
+        <item>False</item>
+        <item>i</item>
+        <item>if</item>
+        <item>in</item>
+        <item>integer</item>
+        <item>I'm</item>
+        <item>iq</item>
+        <item>iron</item>
+        <item>is</item>
+        <item>String</item>
+    </string-array>
+
+</resources>
